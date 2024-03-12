@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="valProvinsi">PROVINSI DAERAH ISTIMEWA YOGYAKARTA</string>
+    <string name="valKabupaten">KABUPATEN SLEMAN</string>
+    <string name="valNik">530201040293323221</string>
+    <string name="valNama">SAIMREY RHYOLITO NOMLENI</string>
+    <string name="valTtl">Jogja, 26-09-1999</string>
+    <string name="valKelamin">LAKI-LAKI</string>
+    <string name="valAlamat">JALAN BUMIJO NO.3</string>
+    <string name="valRtrw">010/002</string>
+    <string name="valDesa">CONDONG CATUR</string>
+    <string name="valCamat">DEPOK</string>
+    <string name="valAgama">KRISTEN PROTESTAN</string>
+    <string name="valKawin">BELUM KAWIN</string>
+    <string name="valPekerjaan">PELAJAR/MAHASISWA</string>
+    <string name="valWarga">WNI</string>
+    <string name="valBerlaku">SEUMUR HIDUP</string>
+    <string name="valTempat">SLEMAN</string>
+    <string name="valTanggal">11-11-2019</string>
+</resources>
